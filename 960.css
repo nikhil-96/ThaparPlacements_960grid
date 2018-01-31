@@ -1,3 +1,7 @@
+body{
+  background-image: url(images/bg-image2.jpg);
+}
+
 div#navbar, div.spacer {
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -33,22 +37,19 @@ div.topSection div {
 div.topSection div p {
 	margin: 10px;
 }
-div.foot {
-	display: inline;
-}
 
 img#poster {
 	width: 360px;
 	height: 280px;
 }
 
-div#footer {
-	background-color: #e5e5e6;
+img#top {
+  width : 50px;
+  height: 50px;
 }
 
-div#footer div p{
-	margin: 5px;
-	margin-bottom: 5px;
+div#footer {
+	background-color: #e5e5e6;
 }
 
 div#legal {
@@ -90,6 +91,7 @@ h2 {
 	font: bold 1.3em Helvetica;
 	margin: .2em 0;
 	text-align: center;
+}
 
 form {
         /* Just to center the form on the page */
