@@ -2,6 +2,10 @@ body{
   background-image: url(images/bg-image2.jpg);
 }
 
+body.margin{
+	margin: 20px auto;
+}
+
 div#navbar, div.spacer {
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -27,6 +31,22 @@ div.spacer {
 	background-color: #8FC73E;
 	height: 0.5em;
 	margin-left: 250px;
+}
+
+.center {
+	text-align: center;
+}
+
+.rowHeader {
+	color: green;
+}
+
+.left {
+	text-align: left;
+}
+
+label.top {
+	vertical-align: top;
 }
 
 div.topSection div {
@@ -102,4 +122,11 @@ h2 {
 }
 #button:hover{
   background-color: powderblue;
+}
+.clear {
+	clear: both;
+}
+
+div.footer{
+	float: right;
 }
