@@ -88,13 +88,7 @@ div#navbar ul li {
 }
 
 p {
-	font: .8em/1.4em Georgia;
-	margin: .2em 0;
-}
-
-p#headlineText {
-	font: .9em/1.4em Georgia;
-	
+	font-family: 'Open Sans', sans-serif;
 }
 
 div#legal p {
@@ -103,9 +97,10 @@ div#legal p {
 }
 
 h1 {
-	font: bold 1.5em Helvetica;
+	font-family: 'Indie Flower', cursive;
 	margin: .2em 0;
 	text-align: center;
+	font-size: 1.75em;
 }
 
 a {
@@ -114,9 +109,9 @@ a {
 }
 
 h2 { 
-	font: bold 1.3em Helvetica;
-	margin: .2em 0;
+	font-family: 'Comfortaa', cursive;
 	text-align: center;
+	font-size: 1.2em;
 }
 
 #button {
