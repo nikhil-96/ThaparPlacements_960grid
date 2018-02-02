@@ -1,8 +1,8 @@
-body{
-  background-image: url(../images/bg-image2.jpg);
+body {
+  background-color: #ADD9E6;
 }
 
-body.margin{
+body.margin {
 	margin: 20px auto;
 }
 
@@ -66,6 +66,7 @@ img#top {
   width : 50px;
   height: 50px;
 }
+
 img#team {
   width: 200px;
   height: 200px;
@@ -79,6 +80,7 @@ div#legal {
 	clear:both;
 	margin: 10px;
 }
+
 /************************ Typography ***************/
 
 div#navbar ul li {
@@ -105,6 +107,7 @@ h1 {
 	margin: .2em 0;
 	text-align: center;
 }
+
 a {
 	color: #1162b7;
 	text-decoration: none;
@@ -116,13 +119,14 @@ h2 {
 	text-align: center;
 }
 
-
 #button{
   margin-right: 5px;
 }
+
 #button:hover{
   background-color: powderblue;
 }
+
 .clear {
 	clear: both;
 }
